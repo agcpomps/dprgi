@@ -1,0 +1,13 @@
+#header {
+    height: 50px;
+    background: #212121;
+    color: #fff;
+}
+
+#branding h1 {
+    color: #fff;
+}
+
+div.breadcrumbs {
+    background: #424242;
+}
